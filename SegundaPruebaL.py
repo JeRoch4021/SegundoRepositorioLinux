@@ -1,1 +1,1 @@
-Print("Que hay de nuevo viejo?")
+print("¿Que hay de nuevo viejo?")
